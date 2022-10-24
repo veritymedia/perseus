@@ -69,7 +69,7 @@ GATSBY_MEDUSA_BACKEND_URL=<ADMIN_CORS_URL>
 
 ```
 
-3.  **Start dev server**
+4.  **Start dev server**
 
 ```
 yarn tauri dev
@@ -77,7 +77,7 @@ yarn tauri dev
 
 Be forewarned, the initial build might take a while as both Gastby and Tauri are quite phat. Though subsequent builds are much quicker as they update changes.
 
-4.  **Optional: start only Gatsby server**
+5.  **Optional: start only Gatsby server**
 
 ```bash
 yarn start
