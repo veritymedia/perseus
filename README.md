@@ -27,6 +27,8 @@ In the future it could be useful for anyone with a few medusa stores
 - Native desktop notifications.
 - Much more.
 
+![Perseus future look](github/perseus-future.png)
+
 ## Medusa Prerequisites
 
 Technically, the project itself does not have any strict medusa dependencies. However, a running medusa backend would allow you to get beyond the login screen.
